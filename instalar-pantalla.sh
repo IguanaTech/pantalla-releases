@@ -20,7 +20,6 @@ PREFIJO_PAQUETE="https://github.com/IguanaTech/pantalla-releases/releases/downlo
 # Las mismas que LLAVES_PUBLICAS (app/actualizador/llaves.js): `x` de la JWK, base64url.
 # test/instalar-pantalla.test.js falla si se separan.
 LLAVES=(
-  'tZu7L8Er0ADxvZav8Q7S242LU4q1IOOeXQg5LZ3NXx4'
   'nSX6ohpYXqgBGxcsiFEGQNabYE9CBRe5_VmlNmEFm4U'
 )
 
